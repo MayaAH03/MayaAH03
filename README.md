@@ -27,6 +27,18 @@
  <br></br>
  <div align="center"> <i>I also enjoy photography, Here are some of my favourite pictures I've taken.</i>
  </div>
+ <div align="center">
+ <img src="photos/IMG_2004.jpg"  width="300" height="200">
+ <img src="photos/IMG_2021.jpg" width="300" height="200">
+ <img src="photos/IMG_4465.jpg" width="300" height="200">
+ <img src="photos/IMG_1716307383897.jpeg" width="200" height="300">
+ <img src="photos/IMG_1716539790639.jpeg" width="200" height="300">
+ <img src="photos/IMG_4509.jpg"width="400" height="300">
+
+  
+ </div>
+
+
 
 
 <h2>Languages and Frameworks</h2>
