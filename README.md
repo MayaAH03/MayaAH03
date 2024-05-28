@@ -20,26 +20,6 @@
   </a>
 </div>
 
- <br></br>
- <h2> Hobbies </h2>
-<div align="center"> <i>I'm an Esports Enthusiast and have been a part of Western's Collegiate Valorant Team for 2 years! This year (2023) I was asked to captain the school's first marginalized genders team, known as Western Wings! I have transformed a team that previously hadn't secured a win in collegiate competitions into one of the top five contenders in the Canadian Collegiate Game Changers (marginalized genders league) scene. As a result, Western Wings has now won over 35 games in a 4 month period of time. </i>
- </div>
- <br></br>
- <div align="center"> <i>I also enjoy photography, Here are some of my favourite pictures I've taken.</i>
- </div>
- <div align="center">
- <img src="photos/IMG_2004.jpg"  width="300" height="200">
- <img src="photos/IMG_2021.jpg" width="300" height="200">
- <img src="photos/IMG_4465.jpg" width="300" height="200">
- <img src="photos/IMG_1716307383897.jpeg" width="200" height="300">
- <img src="photos/IMG_1716539790639.jpeg" width="200" height="300">
- <img src="photos/IMG_4509.jpg"width="400" height="300">
-
-  
- </div>
-
-
-
 
 <h2>Languages and Frameworks</h2>
 <div id="languages" align="center">
@@ -55,6 +35,23 @@
 
 
 </div>
+
+
+
+ <br></br>
+ <h2> Hobbies </h2>
+<div align="center"> <i>I'm an Esports Enthusiast and have been a part of Western's Collegiate Valorant Team for 2 years! This year (2023) I was asked to captain the school's first marginalized genders team, known as Western Wings! I have transformed a team that previously hadn't secured a win in collegiate competitions into one of the top five contenders in the Canadian Collegiate Game Changers (marginalized genders league) scene. As a result, Western Wings has now won over 35 games in a 4 month period of time. </i>
+ </div>
+
+<div align = "center" id = "photos1">
+<img src="photos/20231202-IMG_9782-Enhanced-NR.jpg"  width="300" height="200">
+ <img src="photos/IMG_9593-Enhanced-NR.png" width="300" height="200">
+</div>
+
+ 
+ <br></br>
+
+
 
 
 
