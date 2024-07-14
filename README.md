@@ -40,7 +40,7 @@
 
  <br></br>
  <h2> Hobbies </h2>
-<div align="center"> <b>Esports:</b> I'm an Esports player and have been a part of Western's Collegiate Valorant Team for 2 years! This year (2023) I was asked to captain the school's first marginalized genders team, known as Western Wings! I have transformed a team that previously hadn't secured a win in collegiate competitions into one of the top five contenders in the Canadian Collegiate Game Changers (marginalized genders league) scene. As a result, Western Wings has now won over 35 games in a 4 month period of time.
+<div align="center"> <h3 align="left">Esports:</h3> I'm an Esports player and have been a part of Western's Collegiate Valorant Team for 2 years! This year (2023) I was asked to captain the school's first marginalized genders team, known as Western Wings! I have transformed a team that previously hadn't secured a win in collegiate competitions into one of the top five contenders in the Canadian Collegiate Game Changers (marginalized genders league) scene. As a result, Western Wings has now won over 35 games in a 4 month period of time.
  </div>
 
 <div align = "center" id = "photos1">
@@ -48,16 +48,20 @@
  <img src="photos/IMG_9593-Enhanced-NR.png" width="300" height="200">
 </div>
 
- 
- <br></br>
- 
-**#30NitesOfCode:**
-#30NitesOfCode is a habit-building challenge that encourages you to commit to 30 consecutive days of learning to code or doing a code-related activity once a day! Doing so keeps your virtual pet alive, tamagotchi style!
+ <div>
+  <h3>#30NitesOfCode:</h3>
+  #30NitesOfCode is a habit-building challenge that encourages you to commit to 30 consecutive days of learning to code or doing a code-related activity once a day! Doing so keeps your virtual pet alive, tamagotchi style!
+ </div>
+
   [Check out my progress!](https://www.codedex.io/@MayaAH/30-nites-of-code)  
   ![@MayaAH #30NitesOfCode](https://www.codedex.io/api/petStatus?user=MayaAH)
 
+<div>
+  <h3>Duolingo:</h3>
+  I'm an avid Duolingo user! Currently I'm learning Spanish and having so much fun with it!
+</div>
 
-
+![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=mayahou02&theme=nightowl&sort=xp)
 
 <!--
 **MayaAH03/MayaAH03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
