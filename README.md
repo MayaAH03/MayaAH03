@@ -41,6 +41,7 @@
 <img src="https://img.shields.io/badge/React.js-131313?logo=react&style=for-the-badge" alt="React Badge"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" alt="Flask Badge"/>
 <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&color=049ef4" alt="Threejs Badge"/>
+<img src="https://img.shields.io/badge/postman-dce1df?style=for-the-badge&logo=postman" alt="Postman Badge"/>
 
 
 </div>
