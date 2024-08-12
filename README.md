@@ -56,15 +56,7 @@
  <img src="photos/IMG_9593-Enhanced-NR.png" width="300" height="200">
 </div>
 
- <div>
-  <h3>#30NitesOfCode:</h3>
-  #30NitesOfCode is a habit-building challenge that encourages you to commit to 30 consecutive days of learning to code or doing a code-related activity once a day! Doing so keeps your virtual pet alive, tamagotchi style!
- </div>
 
-  [Check out my progress!](https://www.codedex.io/@MayaAH/30-nites-of-code)  
-  ![@MayaAH #30NitesOfCode](https://www.codedex.io/api/petStatus?user=MayaAH)
-
-<div>
   <h3>Duolingo:</h3>
   I'm an avid Duolingo user! Currently I'm learning Spanish and having so much fun with it!
 </div>
