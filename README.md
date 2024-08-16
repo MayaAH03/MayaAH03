@@ -21,7 +21,7 @@
 </div>
 
 
-<h2>Languages and Frameworks</h2>
+<h2>Languages</h2>
 <div id="languages" align="center">
   <img src="https://img.shields.io/badge/Python-yellow?logo=python&logoColor=blue&style=for-the-badge" alt="Python Badge"/>
    <img src="https://img.shields.io/badge/Java-FCA041?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA8AAAAUCAMAAABlGZcgAAABqlBMVEUAAADnbwBTgqFKg6q%2FdCz%2FFwAiiNZjgI%2FnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwDnbwBTgqFTgqHpbwDqbwDpbwDpbwBTgqFTgqFTgqFTgqFTgqFTgqFTgqFSgqJFhLFpf4mwdjyEfGtPgqVTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFSgqJSgqNTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqFTgqGQK5UXAAAAjnRSTlMAAAAAAAAAAC0RWCUZiBIVk1UEAalvHEIjPbxfR4MvAsRkMbMyxhNxBw6WKUjqVi5hnrcGCg0mGEZ3EiwPFHNnJgoIDzAoJBBRmBt9e2lqa2JUPB%2FAS0UaGTBtYI2Vl4lJMykLSiskIScHARUXj7O0tbqiL4AqBgUcLSIOMhF2jnxyY19hYlxSPwJZaGRIuAhrEQAAANxJREFUGNM1zbEuREEchfHz%2FdfMrJk7QlaxERqJZBMFro4oVTTiCXTeRKn1BkqNTqtEVBKVZKutNgph7Uau4u6c7tecD7VDgUkjWaHMpGKk1OkIxJxL8LnCuKFlqABmxX0AGKp1WgVG31LT%2FvWdcz8bUuk551zPz0sm2Oa3Cy9ImFTzugc8sw%2FYIWVfGUw555xzrKrKHlLCpHP%2BFpj56d1xD5MkH4OPPtdr3VtMugB4H8CNhB3slL9rXYrTAQDTwPhpcwurU0pvcbgcw%2FrZ7ihhV%2FcnNll8lKQjPv4BeqorHSzf0%2B4AAAAASUVORK5CYII%3D&logoColor=black&style=for-the-badge" alt="Java Badge"/>
@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" alt="Flask Badge"/>
 <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&color=049ef4" alt="Threejs Badge"/>
 <img src="https://img.shields.io/badge/postman-dce1df?style=for-the-badge&logo=postman" alt="Postman Badge"/>
-
+<img src="https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=SQLite" alt="SQLite Badge"/>
 
 </div>
 
