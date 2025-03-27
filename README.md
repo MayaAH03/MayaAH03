@@ -49,7 +49,7 @@
 
  <h2> Hobbies </h2>
 <div align="center"> <h3 align="left">Esports:</h3> I'm an Esports player and have been a part of Western's Collegiate Valorant Team for 2 years (2021-2023)! I was asked to captain the school's first marginalized genders team, known as Western Wings! I have transformed a team that previously hadn't secured a win in collegiate competitions into one of the top five contenders in the Canadian Collegiate Game Changers (marginalized genders league) scene. As a result, Western Wings has now won over 35 games in a 4 month period of time.<br></br>
- (2024 - Present) Signed a contract with St Clair College to coach their marginalied genders Valorant Team. St Clair College is known to be the best Esports Program in all of Canada, and I consider this to be one of my best achievements thus far. (Last row of pictures)
+ (2024 - Present) Signed a contract with St Clair College to coach their first marginalied genders Valorant Team. St Clair College is known to be the best Esports Program in all of Canada, and I consider this to be one of my best achievements thus far. (Last row of pictures)
  </div>
 
 <div align = "center" id = "photos1">
