@@ -67,7 +67,7 @@
 
 
   <h3>Duolingo:</h3>
-  I'm an avid Duolingo user! Currently I'm learning Spanish and Music, its been so much fun!
+  I'm an avid Duolingo user! Currently I'm learning Spanish and Music, its been so much fun! My longest streak was 380 days.
 </div>
 
 ![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=mayahou02&theme=nightowl&sort=xp)
